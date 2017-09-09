@@ -1,0 +1,711 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/Movies/10013.mp3
+SHA1-Digest: gAXDtHB3EAkcIKHQa+ChCV/WRZw=
+
+Name: assets/Movies/10010.mp3
+SHA1-Digest: WtkIW4I6dyLNnuk2t48HJIcFNSc=
+
+Name: assets/Movies/10032.mp3
+SHA1-Digest: hwUqYdalmsHBni3FqDNY6OpgDMs=
+
+Name: assets/Music/10089.lrc
+SHA1-Digest: TE4XBLJOtCv/HGdzyNarIsw88xM=
+
+Name: assets/Music/10061.lrc
+SHA1-Digest: ToJZJEIItEu33A/XLoTqc9z6Qb8=
+
+Name: assets/Movies/10022.mp3
+SHA1-Digest: VYCiIy++wDhyESGoEBvz5yS+l6U=
+
+Name: assets/Music/10013.lrc
+SHA1-Digest: 1i3luacMyTAaH8J+WKy7Hv3Dtv0=
+
+Name: assets/Movies/10029.mp3
+SHA1-Digest: 0xBxX03ht/WBCOARyZ7L/2Gt8Pg=
+
+Name: assets/Movies/10097.mp3
+SHA1-Digest: QKDpE34umq9EwSmlHzeLUt0V45I=
+
+Name: res/layout/guide_3.xml
+SHA1-Digest: kx3KbNrNMrCMCHqI9H2kqNmqsCg=
+
+Name: assets/Music/10043.lrc
+SHA1-Digest: NyhgI/3t5GE3gnlIHNGxcxjJAwo=
+
+Name: res/layout/guide_4list.xml
+SHA1-Digest: lvdHTSrRDZCEKhvStFmpOHjkk4o=
+
+Name: assets/Music/10067.lrc
+SHA1-Digest: rtMEIGARzOBMm1i128qWsbEW+lY=
+
+Name: assets/Movies/10006.mp3
+SHA1-Digest: gVSDu0W6+L2kv69L7XLH99O+R4k=
+
+Name: assets/Movies/10049.mp3
+SHA1-Digest: gbxFhKQa7GIygChjyxYPia0vepA=
+
+Name: assets/Movies/10001.mp3
+SHA1-Digest: RrfZam5OOpg1P/7xWup1H9M7dro=
+
+Name: assets/Music/10034.lrc
+SHA1-Digest: yIhg9uBISS3KyEtzSwA9xhlCRhU=
+
+Name: assets/Movies/10033.mp3
+SHA1-Digest: J04UZX3xdSp/JgCWJORuuRSuO3A=
+
+Name: assets/Music/10059.lrc
+SHA1-Digest: /aTCq2y8s9xIVxTkr5U+tlJzgAA=
+
+Name: assets/Music/10029.lrc
+SHA1-Digest: k2NJp1yAyB38Uj0IX0wuOPGkI14=
+
+Name: assets/Movies/10028.mp3
+SHA1-Digest: 54I7cgi9daEUBT68d6l9St1aGoY=
+
+Name: assets/Movies/10083.mp3
+SHA1-Digest: xfLcRAiu81WB7N78PFNIbacEDVM=
+
+Name: assets/Music/10003.lrc
+SHA1-Digest: sKtdjT0kjccBQy/w7L23MvZBgc4=
+
+Name: assets/Music/10045.lrc
+SHA1-Digest: 1w8j5RWd2mk0/OwMbv1LnmJsIyE=
+
+Name: assets/Movies/10076.mp3
+SHA1-Digest: 3ag7aPZr70YKcA8zEp5HHCQp7jY=
+
+Name: assets/Movies/10067.mp3
+SHA1-Digest: nVE8Js0FPjvxaqegSHxOShzXf6I=
+
+Name: assets/Movies/10051.mp3
+SHA1-Digest: IaLhWqxrMFTSqFL1uk/3PAayJyk=
+
+Name: assets/Music/10096.lrc
+SHA1-Digest: ZoaDdqH7/Xp7MPZOjBl/MFtvTVs=
+
+Name: assets/Music/10047.lrc
+SHA1-Digest: 83VJgAHUxNwHJYgkbauPYKIoSuE=
+
+Name: res/drawable/voice.png
+SHA1-Digest: vXdqpQhPNK3IAcfqTi3LDbEb8Go=
+
+Name: assets/Music/10037.lrc
+SHA1-Digest: 8x1f5KzNe5gPeiGoUWDJn9vNU7g=
+
+Name: assets/Movies/10042.mp3
+SHA1-Digest: eHsDXZw/WVBEevwVhZiN5NlPL+c=
+
+Name: assets/Music/10062.lrc
+SHA1-Digest: A5qwTeBxc7hm/D0P/hU/3GyRya4=
+
+Name: assets/Movies/10060.mp3
+SHA1-Digest: 9SIdy5ZpgkaM4r2LUoNpBAF6Wgs=
+
+Name: assets/Movies/10088.mp3
+SHA1-Digest: sSLEEjlxmewTIfVD48IhpdBJHWw=
+
+Name: assets/Music/10027.lrc
+SHA1-Digest: 4YPEVFvsdEgE4vqsMwQWTM+HOk4=
+
+Name: assets/Movies/10086.mp3
+SHA1-Digest: z5rDfEPzqu7hOro08K4gN/UjEck=
+
+Name: assets/Movies/10085.mp3
+SHA1-Digest: Jy+wHRFAABx+NNOT0x62gdfMKPg=
+
+Name: assets/Movies/10043.mp3
+SHA1-Digest: YOWC26iTl3NTE4+/HTVBG5UJ4Pc=
+
+Name: assets/Music/10002.lrc
+SHA1-Digest: gKWqriMh+tCOGNxgcZ+VCjTLPwM=
+
+Name: assets/Movies/10080.mp3
+SHA1-Digest: AZh5V+2mzXrHqv8TQApEow2G7EM=
+
+Name: assets/Movies/10014.mp3
+SHA1-Digest: 74+9cMCxPcPIJMoP/KikIIHTRxc=
+
+Name: res/layout/lyric.xml
+SHA1-Digest: d5yPj/oFBDkuN2aoOEpPhwDXvLg=
+
+Name: assets/Movies/10003.mp3
+SHA1-Digest: gRbf+K7Yele0vn6xgHNUwxxzaAs=
+
+Name: assets/Movies/10044.mp3
+SHA1-Digest: 4LkGFXsogOylot1YbVBhOuDD+CA=
+
+Name: assets/Music/10100.lrc
+SHA1-Digest: 7O+7LiGpCcnugsmUUojmGUsQXqM=
+
+Name: assets/Music/10039.lrc
+SHA1-Digest: 4+k08e9ZSBRUbLBWrsxVDzyb86g=
+
+Name: res/drawable/play.png
+SHA1-Digest: 1OD8SFUGjrMsGsYWfuikid0aD0E=
+
+Name: assets/Music/10032.lrc
+SHA1-Digest: PIZd7QtiInUYziCejSlUm9CN1kM=
+
+Name: assets/Music/10051.lrc
+SHA1-Digest: JjGKkcRIl1oLaXHCdr4m8Ie75Fs=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: HC+Vvci3my23gjkrC1YMWfFAfng=
+
+Name: assets/Movies/10009.mp3
+SHA1-Digest: Cv6j0FY+cIGPIv1Yqonfs9gGxg0=
+
+Name: assets/Music/10085.lrc
+SHA1-Digest: hzoCWikOaLJdFAeEyKnZLGD9E8I=
+
+Name: res/drawable/stop.png
+SHA1-Digest: j/hg8HFCKEqxSK4x54yrBisAY9w=
+
+Name: assets/Movies/10052.mp3
+SHA1-Digest: 13lLuY8LWViAg0SQ75HViMdt53s=
+
+Name: assets/Music/10066.lrc
+SHA1-Digest: vRhpKQQgPnwrCpmqL3a9P3efoHg=
+
+Name: assets/Music/10086.lrc
+SHA1-Digest: xKIi4BP7WkdBKU4xypxtWqCrpDw=
+
+Name: assets/Movies/10066.mp3
+SHA1-Digest: 1YKhE7xDMUAvOGNjNQphG29cTFM=
+
+Name: assets/Music/10080.lrc
+SHA1-Digest: FADBz/QOuEjwuepc9hmbGKA5EJ0=
+
+Name: assets/Music/10015.lrc
+SHA1-Digest: 1X4GzHR9/JuOsjxsBnowRPFqlq8=
+
+Name: assets/Music/10081.lrc
+SHA1-Digest: R4BvbjS9jO1uZZ7DpJtPhWj14Yo=
+
+Name: assets/Music/10041.lrc
+SHA1-Digest: e3tvk27MN4UagvQzN8OlkgCxNng=
+
+Name: assets/Movies/10094.mp3
+SHA1-Digest: GxQ+lFM9Oev6edmkCegxIZcSe94=
+
+Name: res/drawable/background.jpg
+SHA1-Digest: qe9huBNLWY2txBRd+5OZd+k/exY=
+
+Name: assets/Music/10083.lrc
+SHA1-Digest: JWh126I2eOXqfaptyoqXwl9kIog=
+
+Name: assets/Movies/10008.mp3
+SHA1-Digest: Yt728ZXVqHfOxYEXL8r2f26XhEA=
+
+Name: assets/Movies/10072.mp3
+SHA1-Digest: nqc8nqPzkxHLcH0X6mavDNguwCs=
+
+Name: assets/Music/10055.lrc
+SHA1-Digest: 6cbgCMex/NTlF4LkPfYMSeaD8KY=
+
+Name: assets/Music/10053.lrc
+SHA1-Digest: CFF3zHyluQWDP2FJCRnNi8Pot0A=
+
+Name: assets/Movies/10057.mp3
+SHA1-Digest: YgTFAN29R2rptlEmq6q2vDADc9M=
+
+Name: res/drawable/find1.png
+SHA1-Digest: Nuy1qPytZyg3G7lB9bARgJhlhRQ=
+
+Name: assets/Movies/10068.mp3
+SHA1-Digest: EPlXKdo0sSjOuERifoMdw3OOod8=
+
+Name: assets/Movies/10050.mp3
+SHA1-Digest: yhnZUnamAQf8jncae3MJIRJg/NE=
+
+Name: assets/Movies/10047.mp3
+SHA1-Digest: 6yXgI+8tzxkNHKXyd5bZ0AYsgww=
+
+Name: assets/Music/10088.lrc
+SHA1-Digest: 6I9Qv7mOm39BQ/Mp46Oo50Zaa1o=
+
+Name: assets/Music/10028.lrc
+SHA1-Digest: bgXCh1y/CNu5HpOpgc/yqXQez0Y=
+
+Name: assets/Movies/10053.mp3
+SHA1-Digest: JMBiiDIbGB3odad8aBUM0SDBqj4=
+
+Name: assets/Movies/10004.mp3
+SHA1-Digest: DoEf2lvo1f3NeB2PqpF4mzD1HuI=
+
+Name: assets/Movies/10031.mp3
+SHA1-Digest: mHDFwZXSxUCW55lm7IkJEspwpU4=
+
+Name: assets/Movies/10065.mp3
+SHA1-Digest: 7mG1hEdelfNowrikAVhKa8x6eO0=
+
+Name: assets/Movies/10019.mp3
+SHA1-Digest: 8UcfyOq4MAS6A3QRKxwsjTxkMNM=
+
+Name: assets/Music/10057.lrc
+SHA1-Digest: kvCdUj+7zih5y06IMrPJWHiP56U=
+
+Name: res/drawable/pre.png
+SHA1-Digest: cuXRSLU3mbbX5dfrNb/eymYkmL4=
+
+Name: assets/Music/10082.lrc
+SHA1-Digest: S6yZpIzz1NsTpuO5icFtgAeDFZM=
+
+Name: assets/Music/10005.lrc
+SHA1-Digest: O9PRp+bLe/FBNMhjFOFdoFI8bY8=
+
+Name: assets/Music/10036.lrc
+SHA1-Digest: 3YE0QF+i2G0HQqN+g7I7JFNFjYw=
+
+Name: assets/Movies/10082.mp3
+SHA1-Digest: edy2dT4qqGuJfrRLp4OLQnSauEE=
+
+Name: assets/Music/10072.lrc
+SHA1-Digest: tOqnLnj7npAs4SMAD+eMtbgBFgM=
+
+Name: assets/Movies/10089.mp3
+SHA1-Digest: 8BKczOMAUABx0qbf9WXQHY4i0T8=
+
+Name: assets/Music/10023.lrc
+SHA1-Digest: cLfWln987r4ev4TZ1zQeypZgSiE=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: assets/Movies/10018.mp3
+SHA1-Digest: NOY5qh32DMHroKGwkeejGxOjlm0=
+
+Name: res/layout/guide_4.xml
+SHA1-Digest: 8gAnELkL4Mdl6JpI7Bmvr+96nng=
+
+Name: assets/Movies/10020.mp3
+SHA1-Digest: PBjoPSE167NHTF9rKRKRJlW405M=
+
+Name: assets/Movies/10095.mp3
+SHA1-Digest: Javz8yEBlgOQuerZRnynM7MHdMk=
+
+Name: assets/Movies/10092.mp3
+SHA1-Digest: OpcDuEMGUYyCCUFUxF0yZE97+bo=
+
+Name: assets/Music/10087.lrc
+SHA1-Digest: aJBigZfQIUSTbDYuIePXDCshjWU=
+
+Name: res/drawable/ic_launcher_jiuliao.png
+SHA1-Digest: 6pnfJoiwDpY+plKwTn9GpTPfybw=
+
+Name: assets/Music/10048.lrc
+SHA1-Digest: NG0cV8NgKKdwqEDJQnhX66LoopA=
+
+Name: assets/Music/10007.lrc
+SHA1-Digest: vdb0L41HWQg8o0JGCZf+r/yIwQw=
+
+Name: assets/Music/10017.lrc
+SHA1-Digest: WufvNhPEINoO5PCstGw/cyJtZ7U=
+
+Name: assets/Movies/10035.mp3
+SHA1-Digest: f0WZeA9QAQjJdnyWf1KgYLasqF4=
+
+Name: assets/Movies/10007.mp3
+SHA1-Digest: PbQAHhaVCVMpYpFLV+NyUy5Gaa0=
+
+Name: assets/Music/10021.lrc
+SHA1-Digest: yTEHjI+47Zf0phBbEXheR5IBOmc=
+
+Name: assets/Movies/10073.mp3
+SHA1-Digest: e+1A1M4RaLtyQha21LTblDWN9pw=
+
+Name: res/drawable/next.png
+SHA1-Digest: x/Pkc8DCeHpwSkP3zZ3Te/ZMA4E=
+
+Name: assets/Movies/10046.mp3
+SHA1-Digest: VJPrPYECnz2BgsO0CKm4oKjGhUk=
+
+Name: assets/Movies/10016.mp3
+SHA1-Digest: LXK/QP3CRw4Oh4XGjZOmSMtvp2w=
+
+Name: assets/Music/10078.lrc
+SHA1-Digest: 4UO2OyA245RGx3QrHbnIF+9qpXM=
+
+Name: res/layout/guide_2.xml
+SHA1-Digest: 64aVkpv0HWwzv0KlEJG2iyf8yjg=
+
+Name: res/drawable/seekbar_thumb_normal2.png
+SHA1-Digest: DvZilGzqHhfkeQhUaZCUQ9VbKC0=
+
+Name: assets/Music/10042.lrc
+SHA1-Digest: iaCG0PJJoyehCII9Dfdco7KwlpY=
+
+Name: assets/Movies/10017.mp3
+SHA1-Digest: CBWK5RxlxWu8lf92FTOYtKdPHK0=
+
+Name: assets/Music/10071.lrc
+SHA1-Digest: q2rVkh2AENhw3kcMmG4MKpaVkek=
+
+Name: res/layout/guide_5.xml
+SHA1-Digest: mhTmNZbpn4hGjQW5mCXgyWhVRiI=
+
+Name: res/layout/load_more.xml
+SHA1-Digest: APMnkJGplsnrFHUD8di0byIj4nQ=
+
+Name: assets/Movies/10070.mp3
+SHA1-Digest: 5HcmfFjKupZG+VYwuaz4vgKKaPg=
+
+Name: assets/Music/10033.lrc
+SHA1-Digest: C+sgiSpfGEjOvKOEXVpE8nlmdeA=
+
+Name: assets/Music/10073.lrc
+SHA1-Digest: vHZ60RF2bdIk0idHpYYI2iDW+4U=
+
+Name: assets/Movies/10091.mp3
+SHA1-Digest: U3OmmS0dtf+z5NVi0xXmcZANgm0=
+
+Name: assets/Movies/10034.mp3
+SHA1-Digest: rZyKBWfYTgEENyjbnQWfxYIki7U=
+
+Name: assets/Music/10076.lrc
+SHA1-Digest: a1gCibPnEz5En9G8kLMA8GXuW9k=
+
+Name: assets/Movies/10084.mp3
+SHA1-Digest: qkyPFcib0bvfEdXdQ6tM/A1xZW0=
+
+Name: assets/Movies/10058.mp3
+SHA1-Digest: JWFfPEOZ5fg8ma/dcBGjFGIrzuY=
+
+Name: assets/Music/10012.lrc
+SHA1-Digest: tKnv1m1iVOL7sdyXjOa9BzzLEys=
+
+Name: assets/Movies/10064.mp3
+SHA1-Digest: 8w6o21bDP1r7F/LO4A0wZ+86PkQ=
+
+Name: assets/Movies/10021.mp3
+SHA1-Digest: 54T4kDS0xmELJSARIg2Kt2EwOO8=
+
+Name: assets/Music/10018.lrc
+SHA1-Digest: o2g/mLOY+SNFRhpOQ29F1+gZv/Y=
+
+Name: assets/Music/10031.lrc
+SHA1-Digest: HJqiKaQlafpDRqtm4Vk101A1Dac=
+
+Name: assets/Movies/10099.mp3
+SHA1-Digest: IA05VrjwEqoPxM/5o8Xj9BJNha8=
+
+Name: assets/Movies/10087.mp3
+SHA1-Digest: 3AxLh6CXJgWVLK3p6vIMcrtwhVg=
+
+Name: assets/Music/10049.lrc
+SHA1-Digest: kK2OHprN4lc5Bju5881bLdTKbK0=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: assets/Movies/10056.mp3
+SHA1-Digest: p1CjOLnqeOusLWYAK0dUJ8wP6gw=
+
+Name: assets/Music/10025.lrc
+SHA1-Digest: TML2//2+KB5wS9fXED2yq7Im7JU=
+
+Name: assets/Movies/10071.mp3
+SHA1-Digest: Q11xi1LEJYf74s+TG2SSGRfBUnU=
+
+Name: assets/Music/10074.lrc
+SHA1-Digest: N5h57zMfXWrchuGpEmcRC+9HPT4=
+
+Name: resources.arsc
+SHA1-Digest: uhQe0pzMbcHW1++Tbqx8WcJvxWg=
+
+Name: res/layout/music_01.xml
+SHA1-Digest: 1Q73YtUWXhoNecZcHMTBQR3ITeY=
+
+Name: res/drawable/po_seekbar.xml
+SHA1-Digest: Hl+aDRgwvTjnK7ycZ8RXFiXdcX8=
+
+Name: assets/Music/10077.lrc
+SHA1-Digest: 8SteSGahDbuL1/P24rAtZ+TPX6U=
+
+Name: res/layout/guide_5musiclist.xml
+SHA1-Digest: sP9wpASBFP5qiE+9aMUwuRSvQ0c=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4dSpcmKCunBm5X/CO63whIOdaPc=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: assets/Movies/10039.mp3
+SHA1-Digest: Nq5q2fkF0vk/2zk2IVTi6YIRxXw=
+
+Name: assets/Music/10079.lrc
+SHA1-Digest: 7OudL35sdo+36uUPQw7VbHxvnyY=
+
+Name: assets/Music/10069.lrc
+SHA1-Digest: wKjVID0IzQ3s30eBXVmfA3nFpSQ=
+
+Name: assets/Music/10044.lrc
+SHA1-Digest: tIgI5A1W/FTuG5/Y69RCtrnyb9A=
+
+Name: assets/Movies/10026.mp3
+SHA1-Digest: BbMabffXfBhjqC/SVJFg//GMVwI=
+
+Name: assets/Music/10099.lrc
+SHA1-Digest: 88svVhCWSZewFhG9mUff0Pg4tsw=
+
+Name: assets/Movies/10079.mp3
+SHA1-Digest: qbX70dQFOcBpnrsxP5SGQcPV9hI=
+
+Name: assets/Music/10070.lrc
+SHA1-Digest: F/TeaTeB6cw7UL5+m5lxNYCfkXo=
+
+Name: assets/Movies/10011.mp3
+SHA1-Digest: 7/qCHZjeQJAxfQ9i9CRkSe6DoDo=
+
+Name: assets/Movies/10023.mp3
+SHA1-Digest: jUId74cXQPPgIhCLbjJ2e5TGTg0=
+
+Name: res/layout/gui_lv.xml
+SHA1-Digest: Ph0wDfgvw68UXzQu5+0hCU2JRDY=
+
+Name: assets/Movies/10045.mp3
+SHA1-Digest: a6vq5GqRLlZv9RNc7E7Rw7NkfTc=
+
+Name: assets/Movies/10078.mp3
+SHA1-Digest: S1wE4sgL2D8jTvuclmYO67JcmFE=
+
+Name: assets/Movies/10015.mp3
+SHA1-Digest: MRb8tkT0S6UFgrJwafNyw0ukw00=
+
+Name: classes.dex
+SHA1-Digest: Mgfzefhj0OnNSnSFvT7L0LWMDKY=
+
+Name: assets/Music/10009.lrc
+SHA1-Digest: 8hFJDxfRlKGiYAIHVN1RvzcLmFU=
+
+Name: assets/Music/10011.lrc
+SHA1-Digest: CQ1KbMZJZeTFnAOqMq51vSQhoKs=
+
+Name: res/drawable/icon.png
+SHA1-Digest: rDn7bhSL3dCQCG/fK55NtR4jvLk=
+
+Name: assets/Movies/10063.mp3
+SHA1-Digest: f/3lA7CHns5TjCcgdNzA7M0i/mw=
+
+Name: res/drawable/find.png
+SHA1-Digest: zEaXhLB4uTj8Fbd2DXMfFpP3ZtM=
+
+Name: assets/Movies/10048.mp3
+SHA1-Digest: 4+CNP7mlApOlR4xOinByqKo0Ab0=
+
+Name: assets/Movies/10040.mp3
+SHA1-Digest: S1xHIQJdhgU36NKNamdto/nbOho=
+
+Name: assets/Movies/10012.mp3
+SHA1-Digest: qLHAhMvj4pHZF586q7bB1ySF5Hc=
+
+Name: assets/Music/10006.lrc
+SHA1-Digest: Q8/bgHOx3ls0QMGk9YsIWiWrtIA=
+
+Name: assets/Movies/10030.mp3
+SHA1-Digest: 3zPz80nN7Rn5Ne3EhXRRqVWt47k=
+
+Name: assets/Music/10024.lrc
+SHA1-Digest: hgutRiailG/wlCxMRyo1M64GJxM=
+
+Name: assets/Music/10092.lrc
+SHA1-Digest: yUDaTRW87thdwszkJm7Kq56+8sY=
+
+Name: assets/Music/10038.lrc
+SHA1-Digest: M9xPKMpLy8ZoVh93VqAUB/UeulQ=
+
+Name: res/drawable/textview.xml
+SHA1-Digest: Wca5nYYiDMC6BJjAAt4Cy+77zvM=
+
+Name: assets/liu_DB.db
+SHA1-Digest: cIpUZY5miz3lI5rMzpMFPZU0Cpc=
+
+Name: assets/Movies/10090.mp3
+SHA1-Digest: ARHLIuHuhj9K5owB8fr41LJ3SdQ=
+
+Name: assets/Movies/10055.mp3
+SHA1-Digest: bZErUsABU3fHLwPa/lo4yS3PX4A=
+
+Name: assets/Music/10068.lrc
+SHA1-Digest: nYAJiEgdXBjIySvqm0P9tMsKGOo=
+
+Name: assets/Movies/10002.mp3
+SHA1-Digest: T1ykAGe3g3kUk5iWTLYFkH1lrTY=
+
+Name: assets/Music/10035.lrc
+SHA1-Digest: oF0n2xmO6SKNg5HGFi+SUKvNibk=
+
+Name: assets/Movies/10054.mp3
+SHA1-Digest: OSkzcnFZXcujuO1BGV00GOmbhIw=
+
+Name: res/drawable/continue1.png
+SHA1-Digest: ER2ziZrAW7ECqkeSxtCiQXU9X+Y=
+
+Name: assets/Music/10054.lrc
+SHA1-Digest: 0MAQYDCUaUTJVMxDBLSLgxJxHfQ=
+
+Name: assets/Movies/10081.mp3
+SHA1-Digest: D98mV1SkRTyehGgRTtGi6lq2bJ8=
+
+Name: assets/Movies/10027.mp3
+SHA1-Digest: +M+wylfLPY658gGUpQ3KrJAdx78=
+
+Name: assets/Music/10058.lrc
+SHA1-Digest: faCJasQTu2Kezh1HP+CkbN7y6Pc=
+
+Name: assets/Movies/10096.mp3
+SHA1-Digest: iGpx9kDiBz/dlrRFQJgwtOXDVng=
+
+Name: assets/Movies/10024.mp3
+SHA1-Digest: q4KVfBUWYgoKbJp+3Vmq8VJNjGM=
+
+Name: assets/Music/10001.lrc
+SHA1-Digest: R+qqxQkxYSeMAmNZl9+5sRoli78=
+
+Name: assets/Music/10046.lrc
+SHA1-Digest: kyek9wVezes1f069zGOYO6O+35Q=
+
+Name: assets/Movies/10038.mp3
+SHA1-Digest: N8JJ9DWOS2/jeB1JRqrvwEvMQo4=
+
+Name: assets/Movies/10025.mp3
+SHA1-Digest: V/dA/Oa7gcViWFqWc5rGWGT5svE=
+
+Name: assets/Music/10020.lrc
+SHA1-Digest: Ls/WnF+oSyWHNk9/+DOIKEfh0eM=
+
+Name: res/drawable/seekbar_thumb.xml
+SHA1-Digest: qj2YMdp/KlJ2XSPKLR3PuxBHz90=
+
+Name: assets/Music/10064.lrc
+SHA1-Digest: H0m22QkzmD561TNoJjNp7DuEW60=
+
+Name: assets/Music/10094.lrc
+SHA1-Digest: nNiTtfk+VvlLGbmsstB2e/FuKAU=
+
+Name: assets/Movies/10069.mp3
+SHA1-Digest: PbhxNLhXXmUfMfnPWhzkdtk2wE0=
+
+Name: assets/Music/10093.lrc
+SHA1-Digest: DXnpnoSGwQ7DfGHHfyxeXKGbksA=
+
+Name: assets/Music/10030.lrc
+SHA1-Digest: jZkTvxCFoxjZUIq+/5pjYTTpkOE=
+
+Name: assets/Music/10052.lrc
+SHA1-Digest: jofibBPgTiG+FTqU5bb8Kn+YQZw=
+
+Name: assets/Music/10084.lrc
+SHA1-Digest: p64iZRffwrfGOEvF4aD/31S1imM=
+
+Name: assets/Movies/10100.mp3
+SHA1-Digest: CpB5WNTuTIA92JAnb6Oq32Njmvc=
+
+Name: assets/Music/10040.lrc
+SHA1-Digest: w+Mi5vfIc12s0Q5Omid7ZNAcHb4=
+
+Name: assets/Movies/10041.mp3
+SHA1-Digest: ZGoYRHmh8+FwC9TtBFEK1tXVDsA=
+
+Name: assets/Music/10050.lrc
+SHA1-Digest: 1T91dRpI+xct7q8q5SYweKifBdc=
+
+Name: assets/Music/10065.lrc
+SHA1-Digest: Z/w0PGGt+XmoyN1kQU0Vj+xztaY=
+
+Name: assets/Movies/10074.mp3
+SHA1-Digest: R5qHd7I0cUUq7sfnRPZmJBU4kfQ=
+
+Name: assets/Music/10004.lrc
+SHA1-Digest: 7I2BfLGmyqll6htBRhRlyOcANAw=
+
+Name: assets/Music/10091.lrc
+SHA1-Digest: lmHX1QmRUcJsQeOm1H66Y9EHja0=
+
+Name: assets/Music/10010.lrc
+SHA1-Digest: jAIaGlWKdNsgG6zjHJckYZwMF8o=
+
+Name: assets/Movies/10075.mp3
+SHA1-Digest: kgAf/iDwnrxO+8rPHgkXDwAcbaA=
+
+Name: assets/Music/10019.lrc
+SHA1-Digest: 3OGIP8wi09bn8fGJlfMhXmGu/+I=
+
+Name: assets/Movies/10005.mp3
+SHA1-Digest: QXBazn3CRoUmxZmkn5vacNWGrYw=
+
+Name: assets/Music/10075.lrc
+SHA1-Digest: YAvRNH0L/uSSjLqt2tKpyZmv9Nc=
+
+Name: assets/Music/10090.lrc
+SHA1-Digest: CbFb6YdnHgnyOTn2W0vh/C20Tt0=
+
+Name: assets/Music/10098.lrc
+SHA1-Digest: vydyztNO1fh6Zhg/lbhHME36EdU=
+
+Name: assets/Music/10008.lrc
+SHA1-Digest: JMuHYXvxFL9Ds2roTXRhBmP3Zro=
+
+Name: assets/Music/10060.lrc
+SHA1-Digest: njNIGke4okOT8LoGRWpcsjeojRA=
+
+Name: assets/Music/10014.lrc
+SHA1-Digest: mHL/oNptZ5OxNSU4fqa4IS5cD3Y=
+
+Name: assets/Movies/10098.mp3
+SHA1-Digest: 1ZVqeLj7LT38GqGPpA6bBDqY/oI=
+
+Name: assets/Music/10095.lrc
+SHA1-Digest: 5rp8jMy396poINMauroTd6z44DU=
+
+Name: assets/Music/10056.lrc
+SHA1-Digest: 1mm2Ia6rOemVB13RBwBQmwDwSnM=
+
+Name: res/layout/dialog_list.xml
+SHA1-Digest: LGqC9Io25mBe7U6Q+plYpBj06gQ=
+
+Name: assets/Movies/10093.mp3
+SHA1-Digest: Q8p9Jt0SluHaRfwM2iNZNNPjt3c=
+
+Name: assets/Movies/10037.mp3
+SHA1-Digest: VzmTdpSMh7Vi6hTCdnNV63BDWZY=
+
+Name: assets/Music/10022.lrc
+SHA1-Digest: s0hRYnBc4UsdjlVvqMcPXLsXoaI=
+
+Name: assets/Movies/10059.mp3
+SHA1-Digest: X2gI4XxtuKPovdMIHcalzXDk1j0=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: assets/Music/10097.lrc
+SHA1-Digest: JemSc1P0diAC8ZAdKYy2oy8zM+8=
+
+Name: assets/Movies/10062.mp3
+SHA1-Digest: Y2fdvRwSZ4BIUo6xmd+0HcunEEU=
+
+Name: assets/Music/10016.lrc
+SHA1-Digest: 4jayWj2+c+xZBaDvh9yLKucCC6Q=
+
+Name: res/drawable/musicimg.png
+SHA1-Digest: 2LjnuElQ5Bbp1zuP9sXB2JDzro0=
+
+Name: assets/Movies/10036.mp3
+SHA1-Digest: LR1pxjEA7QFI/9HAVCOD5Ik65gI=
+
+Name: assets/Music/10063.lrc
+SHA1-Digest: UWxkRssWDe/TLoU9uyDJUCIXcDs=
+
+Name: assets/Movies/10061.mp3
+SHA1-Digest: bgP1r+mdWjie1SCXtcNpfyX4BQc=
+
+Name: assets/Movies/10077.mp3
+SHA1-Digest: r9+03jc/+3JwKTjeZJitBkZNEzA=
+
+Name: assets/Music/10026.lrc
+SHA1-Digest: ydlNJLx035MZvA2Xu1dxtmK8Q5s=
+
